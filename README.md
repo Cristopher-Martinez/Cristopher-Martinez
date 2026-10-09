@@ -1,6 +1,6 @@
 # Cristopher Martinez
 
-Senior full-stack engineer. Four years building payments infrastructure at LoopPay, and independent web work before that.
+Senior full-stack engineer. Four years building payments infrastructure at [Loopay](https://loopay.com/), and independent web work before that.
 
 - **Payments:** bulk dispersals and their reversal, provider integrations, reconciliation.
 - **TypeScript end to end:** React, GraphQL, Prisma, PostgreSQL, AWS Lambda.

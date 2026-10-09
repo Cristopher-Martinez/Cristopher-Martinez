@@ -6,6 +6,6 @@ Senior full-stack engineer. Four years building payments infrastructure at [Loop
 - **TypeScript end to end:** React, GraphQL, Prisma, PostgreSQL, AWS Lambda.
 - **AI tooling:** hybrid-retrieval memory for coding agents, served over MCP.
 
-The LoopPay code is private. I write about the problems and decisions in an [engineering log](https://cristopher-martinez.github.io/bitacora/).
+The Loopay code is private. I write about the problems and decisions in an [engineering log](https://cristopher-martinez.github.io/bitacora/).
 
 [Portfolio](https://cristopher-martinez.github.io/) · [LinkedIn](https://www.linkedin.com/in/cristopher-martinez/)
